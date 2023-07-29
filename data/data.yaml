@@ -1,0 +1,13 @@
+names:
+- box
+- pallet
+nc: 2
+roboflow:
+  license: Public Domain
+  project: use_box_image
+  url: https://universe.roboflow.com/school-vlidz/use_box_image/dataset/1
+  version: 1
+  workspace: school-vlidz
+test: ../test/
+train: ../train/
+val: ../valid/
